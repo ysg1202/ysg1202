@@ -20,9 +20,9 @@
 - NXP FRDM-i.MX93 기반 Embedded Linux BSP 개발
 - Yocto, U-Boot, Device Tree, Kernel 및 Cross Compile 환경 구성
 
-## 3. [Linux Device Driver](프로젝트_URL)
+## 3. [Raspberry Pi Linux Device Driver](프로젝트_URL)
 
-- Character Device Driver 및 Platform Driver 구현
+- Character Device Driver 구현
 - GPIO Interrupt, Wait Queue, `poll()` 기반 Event 처리
 
 ## 4. [Umbrella Guard System](https://github.com/ysg1202/Umbrella-Guard-System)
