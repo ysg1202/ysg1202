@@ -30,7 +30,7 @@
 - STM32 / Arduino / Raspberry Pi 기반 IoT 우산 관리 시스템
 - RFID 및 센서 데이터 처리
 
-## 5. [Smart-Library](프로젝트_URL)
+## 5. [Smart Library](프로젝트_URL)
 
 - STM32 + FreeRTOS 기반 스마트 독서실 통합 관리 시스템
 - RFID 출입 관리, 환경 센서 제어, 열화상 모니터링 및 TCP/IP 원격 제어
