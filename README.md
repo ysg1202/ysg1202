@@ -22,8 +22,9 @@
 
 ## 3. [Raspberry Pi Linux Device Driver](프로젝트_URL)
 
-- Character Device Driver 구현
-- GPIO Interrupt, Wait Queue, `poll()` 기반 Event 처리
+- Raspberry Pi 기반 LED/KEY Character Device Driver 구현
+- GPIO Interrupt, Wait Queue, Blocking / Non-blocking I/O, `poll()` 기반 Event 처리
+- `ioctl()`, Kernel Timer, `kmalloc()`, `filp->private_data`, `/proc` 등 Linux Driver 기능 실습
 
 ## 4. [Umbrella Guard System](https://github.com/ysg1202/Umbrella-Guard-System)
 
