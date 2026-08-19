@@ -25,7 +25,7 @@
 - Character Device Driver 및 Platform Driver 구현
 - GPIO Interrupt, Wait Queue, `poll()` 기반 Event 처리
 
-## 4. [Umbrella-Guard-System](프로젝트_URL)
+## 4. [Umbrella-Guard-System](https://github.com/ysg1202/Umbrella-Guard-System)
 
 - STM32 / Arduino / Raspberry Pi 기반 IoT 우산 관리 시스템
 - RFID 및 센서 데이터 처리
