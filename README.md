@@ -20,7 +20,7 @@
 - NXP FRDM-i.MX93 기반 Embedded Linux BSP 개발
 - Yocto, U-Boot, Device Tree, Kernel 및 Cross Compile 환경 구성
 
-## 3. [Raspberry Pi Linux Device Driver](프로젝트_URL)
+## 3. [Raspberry Pi Linux Device Driver](https://github.com/ysg1202/Raspberry-Pi-Linux-Device-Driver)
 
 - Raspberry Pi 기반 LED/KEY Character Device Driver 구현
 - GPIO Interrupt, Wait Queue, `poll()`, `ioctl()` 등 Kernel Driver 기능 실습
